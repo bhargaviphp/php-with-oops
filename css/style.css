@@ -1,0 +1,29 @@
+.margin-top-100{
+	margin-top: 100px;
+}
+.div-login{
+	border:1px solid #ccc;
+	border-radius: 5px;
+	padding:30px;
+}
+.center{
+	text-align: center;
+}
+.right{
+	text-align: right;
+}
+.left{
+	text-align: left;
+}
+.padding-20{
+	padding:20px;
+}
+.margin-20{
+	margin:20px;
+}
+.border-none{
+	border:none;
+}
+/*.table tbody tr{
+	padding:20px;
+}*/
