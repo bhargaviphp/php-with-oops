@@ -148,7 +148,7 @@ if(isset($_SESSION['username'])){
 							<?php
 						}
 					}else{
-						echo '<tr><td colspan="6">No Results</td></tr>';
+						echo '<tr><td colspan="8">No Results</td></tr>';
 					}
 					?>
 				</tbody>
